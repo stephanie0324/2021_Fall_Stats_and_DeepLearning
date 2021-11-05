@@ -6,3 +6,8 @@
 * 本週內容為 linear regression
 * 作業內容為實作 KNN 與 Lasso Regression  [作業說明](https://github.com/stephanie0324/2021_Fall_Stats_and_DeepLearning/blob/main/HW1/hw1_qonlyv6_2021fall.ipynb)
 * [作業一](https://github.com/stephanie0324/2021_Fall_Stats_and_DeepLearning/blob/main/HW1/r10725046_HW1.ipynb)
+
+## HW2 (10/22-11/4)
+* 本週內容為 
+* 本週作業內容為 data preprocessin 與 logistic regression
+* [作業二](https://github.com/stephanie0324/2021_Fall_Stats_and_DeepLearning/blob/main/HW2/SDL_HW2.ipynb)
